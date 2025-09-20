@@ -2,7 +2,7 @@
 
 (English Introduction below)
 
-Vous trouverez ici une documentation expliquant comment coudre votre propre sac pour une embosseuse BrailleRAP XL.
+Vous trouverez [ici](HOW-TO_FR-fr.md) une documentation en français expliquant comment coudre votre propre sac pour une embosseuse BrailleRAP XL.
 
 Mais qu'est-ce qu'une BrailleRAP ? Voir le [site du projet BrailleRAP](https://www.braillerap.org/)  et les [ressources BrailleRAP sur GitHub](https://github.com/braillerap)
 
