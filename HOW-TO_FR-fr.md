@@ -2,8 +2,9 @@
 
 ## Patron et instructions de montage
 
-![Aperçu extérieur](pictures/FR-fr/image16.jpg)
-![Aperçu intérieur](pictures/FR-fr/image4.jpg) 
+|  |  |
+| - | - |
+| ![Aperçu extérieur](pictures/FR-fr/image16.jpg) | ![Aperçu intérieur](pictures/FR-fr/image4.jpg) |
 
 Le sac présenté ici comporte 3 poches intérieures : une grande poche inférieure et 2 petites poches supérieures fermées par bande agrippante. 
 
@@ -113,12 +114,11 @@ Couper les angles pour préparer la fermeture
 Retourner la pièce pour exposer l’endroit  
 
 Plier l’élastique en 2, faire un noeud et le glisser dans la pièce préparée.
+|||
+|-|-|
+|![Préparation fermeture 2](pictures/FR-fr/image10.jpg)|![Préparation fermeture 3](pictures/FR-fr/image3.jpg)|
 
-![Préparation fermeture 2](pictures/FR-fr/image10.jpg)
-![Préparation fermeture 3](pictures/FR-fr/image3.jpg)
-
-Replier le bord ouvert vers l’intérieur et faire une piqure pour fermer la pièce en prenant l’élastique  
-![ Fermeture prête](pictures/FR-fr/image14.jpg)
+Replier le bord ouvert vers l’intérieur et faire une piqure pour fermer la pièce en prenant l’élastique  ![ Fermeture prête](pictures/FR-fr/image14.jpg)
 
 
 ### Pose de l’élastique
