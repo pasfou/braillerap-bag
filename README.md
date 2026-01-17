@@ -1,5 +1,10 @@
 # braillerap-bag
 
+
+|  |  |
+| - | - |
+| ![Aperçu extérieur](pictures/FR-fr/image16.jpg) | ![Aperçu intérieur](pictures/FR-fr/image4.jpg) |
+
 (English Introduction below)
 
 Vous trouverez [ici](HOW-TO_FR-fr.md) une documentation en français expliquant comment coudre votre propre sac pour une embosseuse BrailleRAP XL.
@@ -9,8 +14,14 @@ Mais qu'est-ce qu'une BrailleRAP ? Voir le [site du projet BrailleRAP](https://w
 Cette documentation est destinée à des couturier.e.s ayant déjà pratiqué.
 
 ## English version
+
 In this project, you'll find a documentation to explain how to sew a bag for your BrailleRAP XL model.
 
 For now, the documentation is in french only (any contributor welcome for other languages !)
 
 But what's a BrailleRAP ? See the [BrailleRAP project here](https://www.braillerap.org/)  and the [BrailleRAP resources on GitHub](https://github.com/braillerap)
+
+## Galerie photos
+||||
+|-|-|-|
+|![Protoype in Marseille](pictures/gallery/Proto-1.jpg)|![Protoype in Marseille](pictures/gallery/Proto-2.jpg)|![Protoype in Marseille](pictures/gallery/Proto-3.jpg)|
